@@ -1,0 +1,13 @@
+{
+  "util_test.py::TestAPI::test_detect_faces": true,
+  "util_test.py::TestFaceUtil::test_face_detection": true,
+  "cache_test.py": true,
+  "db_test.py": true,
+  "face_test.py": true,
+  "face_test.py::AddFaceTestCase::test_face_recognition_with_valid_image": true,
+  "cache_test.py::TestRedisManager::test_get": true,
+  "compare_test.py::TestFaceComparison::test_compare_faces": true,
+  "face_test.py::AddFaceTestCase::test_face_recognition_with_invalid_image": true,
+  "db_test.py::TestFaceDatabaseManager::test_get_face_list_no_filter": true,
+  "face_test.py::AddFaceTestCase::test_delete_face": true
+}
